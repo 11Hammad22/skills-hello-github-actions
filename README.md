@@ -21,6 +21,8 @@ _Create a GitHub Action and use it in a workflow._
   Encourage users to open new tabs for steps!
 -->
 
+Hello
+
 ## Step 1: Create a workflow file
 
 _Welcome to "Hello GitHub Actions"! :wave:_
